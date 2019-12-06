@@ -1,5 +1,9 @@
 @import "variables";
 
+html, body {
+  overflow-x: hidden;
+}
+
 .btn {
   transition: ease all .15s;
 }
